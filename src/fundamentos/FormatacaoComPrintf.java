@@ -1,4 +1,4 @@
-package exercicios.fundamentos;
+package fundamentos;
 
 public class FormatacaoComPrintf {
     public static void main(String[]args) {
